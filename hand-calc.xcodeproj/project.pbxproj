@@ -44,6 +44,7 @@
 		E4DC983B19560396006E2E26 /* hand-calcTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hand-calcTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DC984019560396006E2E26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4DC984119560396006E2E26 /* hand_calcTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = hand_calcTests.m; sourceTree = "<group>"; };
+		E4EDD892195608440074CD82 /* hand-calc-playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "hand-calc-playground.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 		E4DC981619560395006E2E26 = {
 			isa = PBXGroup;
 			children = (
+				E4EDD892195608440074CD82 /* hand-calc-playground.playground */,
 				E4DC982119560395006E2E26 /* hand-calc */,
 				E4DC983E19560396006E2E26 /* hand-calcTests */,
 				E4DC982019560395006E2E26 /* Products */,
@@ -416,6 +418,7 @@
 				E4DC984719560396006E2E26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E4DC984819560396006E2E26 /* Build configuration list for PBXNativeTarget "hand-calcTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +427,7 @@
 				E4DC984A19560396006E2E26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
